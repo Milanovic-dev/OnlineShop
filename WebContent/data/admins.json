@@ -1,0 +1,13 @@
+[ {
+  "username" : "NikolaAdmin",
+  "email" : "nikola@gmail.com",
+  "password" : "admin",
+  "name" : "Nikola",
+  "lastName" : "Milanovic",
+  "role" : "Admin",
+  "city" : "Novi Sad",
+  "contact" : "0691711271",
+  "date" : "2019-09-17T11:32:45.652400700",
+  "messages" : [ ],
+  "unreadMessages" : [ ]
+} ]

@@ -1,0 +1,16 @@
+[ {
+  "name" : "Patike",
+  "description" : "Sve vrste patika",
+  "deals" : null,
+  "archived" : false
+}, {
+  "name" : "Satovi",
+  "description" : "Sve vrste satova",
+  "deals" : null,
+  "archived" : false
+}, {
+  "name" : "Duksevi",
+  "description" : "Sve vrste dukseva",
+  "deals" : null,
+  "archived" : false
+} ]

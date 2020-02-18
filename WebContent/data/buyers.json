@@ -1,0 +1,94 @@
+[ {
+  "username" : "Kupac1",
+  "email" : "kupac1@gmail.com",
+  "password" : "123",
+  "name" : "Kupac",
+  "lastName" : "Kupac",
+  "role" : "Buyer",
+  "city" : "Beograd",
+  "contact" : "063455781",
+  "date" : null,
+  "messages" : [ {
+    "dealName" : "",
+    "sender" : "koko@gmail.com",
+    "header" : "Welcome to Shopify!",
+    "content" : "Hello Kupac, \nThank you for joining Shopify!",
+    "dateSent" : "2019-09-17T11:36:40.765249600",
+    "archived" : false,
+    "read" : false
+  } ],
+  "ordered" : [ ],
+  "delivered" : [ ],
+  "favorites" : [ ],
+  "unreadMessages" : [ {
+    "dealName" : "",
+    "sender" : "koko@gmail.com",
+    "header" : "Welcome to Shopify!",
+    "content" : "Hello Kupac, \nThank you for joining Shopify!",
+    "dateSent" : "2019-09-17T11:36:40.765249600",
+    "archived" : false,
+    "read" : false
+  } ]
+}, {
+  "username" : "Kupac2",
+  "email" : "kupac2@gmail.com",
+  "password" : "123",
+  "name" : "Kupac",
+  "lastName" : "Kupac",
+  "role" : "Buyer",
+  "city" : "Subotica",
+  "contact" : "061855974",
+  "date" : null,
+  "messages" : [ {
+    "dealName" : "",
+    "sender" : "koko@gmail.com",
+    "header" : "Welcome to Shopify!",
+    "content" : "Hello Kupac, \nThank you for joining Shopify!",
+    "dateSent" : "2019-09-17T11:37:22.727527400",
+    "archived" : false,
+    "read" : false
+  } ],
+  "ordered" : [ ],
+  "delivered" : [ ],
+  "favorites" : [ ],
+  "unreadMessages" : [ {
+    "dealName" : "",
+    "sender" : "koko@gmail.com",
+    "header" : "Welcome to Shopify!",
+    "content" : "Hello Kupac, \nThank you for joining Shopify!",
+    "dateSent" : "2019-09-17T11:37:22.727527400",
+    "archived" : false,
+    "read" : false
+  } ]
+}, {
+  "username" : "Marko",
+  "email" : "marko@gmail.com",
+  "password" : "123",
+  "name" : "Marko ",
+  "lastName" : "Markovic",
+  "role" : "Buyer",
+  "city" : "Novi Sad",
+  "contact" : "0691778569",
+  "date" : null,
+  "messages" : [ {
+    "dealName" : "",
+    "sender" : "koko@gmail.com",
+    "header" : "Welcome to Shopify!",
+    "content" : "Hello Marko , \nThank you for joining Shopify!",
+    "dateSent" : "2019-09-17T11:35:56.181695700",
+    "archived" : false,
+    "read" : false
+  } ],
+  "ordered" : [ ],
+  "delivered" : [ ],
+  "favorites" : [ ],
+  "unreadMessages" : [ {
+    "dealName" : "",
+    "sender" : "koko@gmail.com",
+    "header" : "Welcome to Shopify!",
+    "content" : "Hello Marko , \nThank you for joining Shopify!",
+    "dateSent" : "2019-09-17T11:35:56.181695700",
+    "archived" : false,
+    "read" : false
+  } ]
+} ]
